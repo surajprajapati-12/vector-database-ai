@@ -1,3 +1,30 @@
+# 🚀 Vector Database with RAG (C++)
+
+## 🔍 Overview
+
+A high-performance vector database built in C++ implementing HNSW, KD-Tree, and brute-force search, integrated with a Retrieval-Augmented Generation (RAG) pipeline using a local LLM.
+
+## ⚡ My Contributions
+
+* Studied and implemented vector search algorithms (HNSW, KD-Tree)
+* Explored RAG pipeline using local LLM (Ollama)
+* Improved understanding of semantic search and embeddings
+* Worked on API flow and system design concepts
+
+## 🛠 Tech Stack
+
+* C++
+* REST API
+* LLM (Ollama)
+* Vector Search Algorithms
+
+## 📌 Note
+
+This project is inspired by an open-source implementation and has been modified for learning and enhancement purposes.
+
+---
+
+
 # VectorDB — Build a Vector Database from Scratch in C++
 
 A fully working **Vector Database** built from scratch in C++ with a web UI.  
